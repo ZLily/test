@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(){
-    printf("version 0.2\n");
+    printf("version 0.3\n");
     return 0;
 }
